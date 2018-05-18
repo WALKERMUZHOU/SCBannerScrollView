@@ -2,8 +2,8 @@
 //  SCCollectionView.swift
 //  SwiftCollectionViewTest
 //
-//  Created by 朱成龙 on 2018/5/3.
-//  Copyright © 2018年 朱成龙. All rights reserved.
+//  Created by muzhou on 2018/5/3.
+//  Copyright © 2018年 muzhou. All rights reserved.
 //
 
 import UIKit
